@@ -4,7 +4,7 @@ export default function Index() {
     return ( 
         <View style={{ flex: 1, justifyContent: "center",
         alignItems: "center" }}> 
-            <Text>hello world</Text>
+            <Text>hello worl</Text>
         
         </View>
     )
